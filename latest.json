@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.8.1",
-  "apkUrl": "https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.8.1.apk",
-  "sha256": "b5a9da3e6c8946819764dcc382767704a36cbce54358f9c3c65a34d6ca20f9fc",
-  "notes": "Inclui atualizador configurável e modo experimental de captura das portas. O teste das portas não ativa alertas: a leitura ainda precisa ser validada no Elantra 2015."
+  "versionCode": 15,
+  "versionName": "0.8.2",
+  "apkUrl": "https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.8.2.apk",
+  "sha256": "ba913922e13ec36f426214093c94b4d9204e01ddbd457fbe7b28786daa9b6a2d",
+  "notes": "Retirado o botão de testes experimentais das portas enquanto investigamos a leitura correta para o Elantra 2015."
 }
