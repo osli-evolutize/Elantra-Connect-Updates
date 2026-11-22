@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.8.2",
-  "apkUrl": "https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.8.2.apk",
-  "sha256": "ba913922e13ec36f426214093c94b4d9204e01ddbd457fbe7b28786daa9b6a2d",
-  "notes": "Retirado o botão de testes experimentais das portas enquanto investigamos a leitura correta para o Elantra 2015."
+  "versionCode": 16,
+  "versionName": "0.9.0",
+  "apkUrl": "https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.9.0.apk",
+  "sha256": "50d781ea738abcde4ed71bd71037a120c97cc97e428e8e704abb5a3434004130",
+  "notes": "Novo visual do painel: cartões coloridos, botões arredondados e atalho discreto de atualizações (↻) ao lado de Conexão. Ajustes de consumo e detalhes de sensores recolhíveis."
 }

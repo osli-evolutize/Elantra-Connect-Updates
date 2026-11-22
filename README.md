@@ -1,25 +1,29 @@
 # Elantra Connect — atualizações
 
-Distribuição dos APKs assinados do aplicativo Android Elantra Connect.
+## Versão 0.9.0
 
-## Configurar no app
+[Baixar APK assinado](https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.9.0.apk)
 
-Em **Atualizações → Configurar endereço de atualizações**, informe:
+- Painel escuro com cartões em turquesa, azul e violeta.
+- Botões arredondados com efeito ao tocar.
+- Atalho de atualizações **↻** ao lado de **Conexão**.
+- Ajustes de consumo e detalhes dos sensores recolhíveis.
+- Layout verificado em tela estreita, retrato e paisagem.
+
+Instale por cima da versão anterior. Não é necessário desinstalar.
+
+## Fonte de atualizações
+
+No atalho **↻ → Configurar endereço de atualizações**, informe:
 
 ```text
 https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/latest.json
 ```
 
-Desconecte o OBD para verificar e instalar uma atualização. O Android pede confirmação da instalação. Preserve o app instalado; não é necessário desinstalar para atualizar.
+Desconecte o OBD para consultar e instalar atualizações. O Android solicita confirmação para instalar.
 
-## Versão 0.8.2
+SHA-256 do APK: `50d781ea738abcde4ed71bd71037a120c97cc97e428e8e704abb5a3434004130`
 
-[Baixar APK](https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.8.2.apk)
+As leituras de portas, cintos e faróis do Elantra 2015 ainda estão em investigação e não geram alertas nesta versão.
 
-- Atualizador HTTPS com verificação de integridade, versão e certificado.
-- Botão de testes experimentais das portas retirado temporariamente.
-- O estado das portas do Elantra 2015 ainda não está validado; não há alerta de portas ativo nesta versão.
-
-SHA-256: `ba913922e13ec36f426214093c94b4d9204e01ddbd457fbe7b28786daa9b6a2d`
-
-Este repositório contém somente os APKs e os metadados necessários às atualizações. O código-fonte é mantido separadamente.
+Este repositório contém apenas APKs assinados e metadados de atualização. O código-fonte é mantido separadamente.
