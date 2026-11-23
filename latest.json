@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "0.9.0",
-  "apkUrl": "https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.9.0.apk",
-  "sha256": "50d781ea738abcde4ed71bd71037a120c97cc97e428e8e704abb5a3434004130",
-  "notes": "Novo visual do painel: cartões coloridos, botões arredondados e atalho discreto de atualizações (↻) ao lado de Conexão. Ajustes de consumo e detalhes de sensores recolhíveis."
+  "versionCode": 17,
+  "versionName": "0.9.1",
+  "apkUrl": "https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.9.1.apk",
+  "sha256": "ee7a85ef9e7af71806d0c64e348c6bb84a82fa6840744296e7c9b37b0bb454e3",
+  "notes": "Tela cheia automática ao conectar à OBD, com atalho ⛶ para entrar ou sair e opção nas configurações de Conexão. Preserva a saída manual após reconexão e protege áreas das barras, teclado e câmera."
 }
