@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.9.2",
-  "apkUrl": "https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.9.2.apk",
-  "sha256": "4bcc27053d6562bcf33b17508a6525bf5339dab9bf51eed496a3eea5abae1a4f",
-  "notes": "Modo de condução: somente instrumentos, dados e alertas, sem cabeçalho nem botões. Toque na tela para mostrar os controles por seis segundos. Ativação automática ao conectar à OBD e saída pelo atalho ⛶."
+  "versionCode": 19,
+  "versionName": "0.9.3",
+  "apkUrl": "https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.9.3.apk",
+  "sha256": "c6c2f8acdf57086cf4306980aed7a8b662d6f54e90e9d9421698dab167f593c2",
+  "notes": "Visual azul inspirado no painel em dois níveis do Civic: velocidade digital acima e conta-giros circular abaixo. Consumos instantâneo e médio lado a lado, com fontes compactas. Mantém o modo de condução e o cálculo atual da média, com origem e qualidade das leituras."
 }
