@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.9.4",
-  "apkUrl": "https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.9.4.apk",
-  "sha256": "b79aca8ee72d18d39c0fb150210d13f7dde00f0a3cfb136a550fb9cb6c0d6aff",
-  "notes": "Painel inspirado no Elantra com dois mostradores circulares azuis, velocímetro analógico e digital interno. Ponteiros, arcos e números mudam gradualmente de azul para amarelo e vermelho conforme velocidade e RPM. Mantém consumos lado a lado e modo de condução."
+  "versionCode": 21,
+  "versionName": "0.9.5",
+  "apkUrl": "https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.9.5.apk",
+  "sha256": "c68f086012e5c422db44f0483b36c9d8dfc7c90157664c9047cac7e535b95db3",
+  "notes": "Mostradores maiores, um acima do outro. Escolha entre Elantra, Civic e Moderno em Mais → Aparência do painel; preferência salva e aplicada sem reiniciar a sessão. Mantém cores graduais, consumos lado a lado e modo de condução."
 }
