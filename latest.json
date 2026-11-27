@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.9.5",
-  "apkUrl": "https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.9.5.apk",
-  "sha256": "c68f086012e5c422db44f0483b36c9d8dfc7c90157664c9047cac7e535b95db3",
-  "notes": "Mostradores maiores, um acima do outro. Escolha entre Elantra, Civic e Moderno em Mais → Aparência do painel; preferência salva e aplicada sem reiniciar a sessão. Mantém cores graduais, consumos lado a lado e modo de condução."
+  "versionCode": 22,
+  "versionName": "0.9.6",
+  "apkUrl": "https://raw.githubusercontent.com/osli-evolutize/Elantra-Connect-Updates/main/Elantra-Connect-OBD-0.9.6.apk",
+  "sha256": "c23d73aca403366aeabdf0f7a0b2446341bec906426aa26c1084bea6c9e4c4cc",
+  "notes": "Novo teste de combustível em Mais → Diagnóstico da injeção → Testar nível, vazão e injeção. Consulta nível e vazão padrão, depois captura Hyundai experimental somente com veículo parado. Relatório compartilhável; dados experimentais não alteram o cálculo de consumo."
 }
